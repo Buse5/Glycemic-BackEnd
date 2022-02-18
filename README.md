@@ -13,11 +13,11 @@
 
 -Admin gıda ekleyebilir, silebilir, kayıtlı kullanıcılardan gelen gıdaları kontrol ederek uygun byulması halinde yayınlayabilir
 
- ## LIVE DEMO
- <p><em><a href="https://glycemicindex.herokuapp.com/">LIVE DEMO</a></br>
+ ## DEMO
+ <p><em><a href="https://glycemicindex.herokuapp.com/">DEMO</a></br>
  
- ## Frontend Codes
- <p><em><a href="https://github.com/Buse5/Glycemic-FrontEnd">FRONTEND CODES</a></br>
+ ## Frontend Kodları
+ <p><em><a href="https://github.com/Buse5/Glycemic-FrontEnd">FRONTEND KODLARI</a></br>
   
  ## Diller ve Kabiliyetler 👩‍💻
 
