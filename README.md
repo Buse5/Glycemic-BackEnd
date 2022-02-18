@@ -17,7 +17,7 @@
  <p><em><a href="https://glycemicindex.herokuapp.com/">LIVE DEMO</a></br>
  
  ## Frontend Codes
- <p><em><a href="https://github.com/Buse5/Glycemic-FrontEnd">LIVE DEMO</a></br>
+ <p><em><a href="https://github.com/Buse5/Glycemic-FrontEnd">FRONTEND CODES</a></br>
   
  ## Diller ve Kabiliyetler 👩‍💻
 
